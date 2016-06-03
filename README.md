@@ -2,6 +2,7 @@
 
 ## 使用方法
 **mac下构建项目**
+
 安装 brew
 ```bash
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
