@@ -20,7 +20,7 @@ go get -v github.com/spf13/hugo
 进入blog-hugo
 ```bash
 set $URL = ip
-hugo server --baseURL="$URL" --port 8080
+hugo server --baseURL="$URL" --port 8080 --bind 0.0.0.0
 ```
 
 访问当前ip:8080即可
