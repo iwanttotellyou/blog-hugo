@@ -1,8 +1,8 @@
 +++
 date = "2016-06-08T11:47:22+08:00"
 description = ""
-title = "foreast"
-auth =  "LJun"
+title = "forest"
+auth =  "村上春树"
 +++
 
 ### 挪威的森林
@@ -21,4 +21,13 @@ auth =  "LJun"
 
 只要你心想只能在此度日,就能凑合下去。
 
+但坦率地说,直子领来的女生尽管可爱,对我来说却太高雅了。
+作为我,合得来的还是公立高中那些虽然多少有些粗俗之感、但可以无拘无束地交谈的女孩子。
+直子领来的女孩子那招人喜爱的脑袋瓜里到底在想什么,我实在莫名其妙。
+估计她们对我也同样莫名其妙。
+
 死并非生的对立面,而作为生的一部分永存。
+
+<div style="text-align:center; margin:0px auto;">
+    <img src="/images/forest.jpg" alt="forest" />
+</div>
